@@ -11,7 +11,9 @@
 > ## 16-03-2022
 
 
-> ## 23-03-2022
+> ## 23-03-2022  --> Needleman-Wunsch Algorithm
+
+> ## 06-04-2022  --> Smith-Waterman Algorithm
 
 Needleman-Wunsch Algorithm,
 Ödev var bu algoritmayla.
